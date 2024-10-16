@@ -1,6 +1,32 @@
-## Margem de erro
+# Repositório de Estudos em C++
 
-<p> Programa criado em C++ para descobrir margem de erro, feito durante a aula de estatistica aplicada.</p>
+Bem-vindo ao meu repositório de estudos sobre C++! Aqui você encontrará uma coleção de projetos, anotações e exercícios que estou desenvolvendo enquanto aprendo sobre esta linguagem de programação poderosa e versátil.
+
+## Objetivo
+
+O objetivo deste repositório é organizar o conhecimento adquirido e compartilhar exemplos práticos de como utilizar C++ para desenvolver aplicações diversas, desde programas simples até projetos mais complexos.
+
+## Estrutura do Repositório
+
+- **/projetos**: Contém projetos completos que utilizam C++.
+- **/anotacoes**: Anotações e conceitos importantes relacionados ao C++.
+- **/exercicios**: Exercícios práticos para reforçar o aprendizado.
+
+## Tecnologias Utilizadas
+
+- **C++**: Linguagem de programação.
+- **CMake**: Ferramenta para gerenciamento de projetos (se aplicável).
+- **Visual Studio / Code::Blocks**: IDEs recomendadas para desenvolvimento.
+
+## Como Começar
+
+Para começar a explorar os projetos neste repositório, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu_usuario/estudos-cpp.git
+   cd estudos-cpp/projetos/nome_do_projeto
+
 
 ## Autor
 <div align="center">
